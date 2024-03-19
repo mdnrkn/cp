@@ -1,0 +1,67 @@
+*Newbie topics : 
+
+TC/SC
+STL
+Recursion
+Maths
+  hcf
+  lcm
+  primes
+  divisors
+  multiples
+  modular arithmetic
+
+Tips for Newbie : 
+   focus on implementation
+
+---------------------------------------------------
+
+*Pupil topics : 
+
+Binary Search
+Prefix Sum
+Bit Manipulation
+Number Theory
+   binary exponentiation
+   seive of eratosthenes
+   euclidean algorithm
+Greedy
+   standard greedy algorithm
+   non-standard greedy algorithm
+
+Tips for Pupil : 
+   solve ad-hoc problems
+   upsolve more and more
+
+---------------------------------------------------
+
+*Specialist topics :
+
+2 Pointers
+Advanced Number Theory
+   fermat's & euler's theorem
+   mod inverse & combinatorics
+DP
+   standard
+   non-standard
+   dp with bitmasking
+Graphs
+   dfs, bfs & applications
+   shortest path algorithms
+Trees
+   basic, subtree precomputation
+   binary lifting
+Range Queries
+   segment trees 
+   fenwick trees
+   sparse table
+Strings
+   string hashing
+   tries
+
+Tips for Specialist : 
+   master on dp
+   proving approaches / dry run
+   reading blogs
+   avoid learning irrelevant topics
+   start topicwise solving problems on cses, cp-algorithm
